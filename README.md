@@ -22,14 +22,7 @@ I am a "Lifelong Learner" migrating to the Tech industry, combining **Engineerin
 
 - 🎓 **Santander Bootcamp 2025:** Data Science with Python (ETL & Analytics).
 - ⚡ **Industrial Engineering:** Optimizing processes and leading electrical projects.
-- ☁️ **SAP Skills:** Preparing for S/4HANA and BTP Support challenges.
 
----
-
-### 📊 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
