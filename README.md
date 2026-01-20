@@ -1,4 +1,4 @@
-# Hi there, I'm John! 👋
+# Hello there! General Kenobi? No, I'm John! 👋
 
 ### Industrial Engineering Student & Project Leader 🇧🇷
 
@@ -38,6 +38,6 @@ I am a "Lifelong Learner" migrating to the Tech industry, combining **Engineerin
 
 ### 📫 Let's Connect!
 
-<a href="[LINK_DO_SEU_LINKEDIN]" target="_blank">
+<a href="https://www.linkedin.com/in/jonathanruppenthal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
