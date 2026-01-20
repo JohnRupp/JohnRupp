@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm John! 👋
 
-<!--
-**JohnRupp/JohnRupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Industrial Engineering Student & Project Leader 🇧🇷
 
-Here are some ideas to get you started:
+I am a "Lifelong Learner" migrating to the Tech industry, combining **Engineering Logic** with **Data Science** to solve real-world problems. Currently focused on the SAP Ecosystem and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."* — Richard P. Feynman
+
+---
+
+### 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=pandas&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔭 Currently Working on
+
+- 🎓 **Santander Bootcamp 2025:** Data Science with Python (ETL & Analytics).
+- ⚡ **Industrial Engineering:** Optimizing processes and leading electrical projects.
+- ☁️ **SAP Skills:** Preparing for S/4HANA and BTP Support challenges.
+
+---
+
+### 📊 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+### 📫 Let's Connect!
+
+<a href="[LINK_DO_SEU_LINKEDIN]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
