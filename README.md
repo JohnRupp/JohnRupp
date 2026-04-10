@@ -1,4 +1,4 @@
-# Hello there! General Kenobi? No, I'm John! 👋
+# Hello there! I'm John! 👋
 
 ### Industrial Engineering Student & Project Leader 🇧🇷
 
